@@ -10,9 +10,11 @@ This project demonstrates how to analyze structured data from an Ecommerce datab
 - Learn data modeling and relationships
 - Gain proficiency in:
   - SELECT, WHERE, ORDER BY, GROUP BY
+
   - JOINs (INNER, LEFT)
-  - Subqueries
+
   - Aggregate functions (SUM, AVG)
+  
   - Views and indexing
 
 ---
